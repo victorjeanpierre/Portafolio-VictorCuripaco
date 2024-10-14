@@ -8,12 +8,12 @@ html {
 html,
 body {
   /* height: 100%; */
-  color: #fff;
-  background: #1f1934;
+  color: #f9f9f9;
+  background: #11582a;
 }
 
 main {
-  background: #393a47;
+  background: #03230d;
   height: 100vh;
   height: 100dvh;
 }
